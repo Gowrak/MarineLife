@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarineLife.Web", "MarineLife.Web\MarineLife.Web.csproj", "{0191EFD4-9BB9-4E5F-B37C-34240B7DF1D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarineLife.Services", "MarineLife.Services\MarineLife.Services.csproj", "{400E1A71-9472-4FD5-A71E-082694E48FE9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarineLife.Data", "MarineLife.Data\MarineLife.Data.csproj", "{5224A78A-C574-4008-BD34-E4E33932E2B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0191EFD4-9BB9-4E5F-B37C-34240B7DF1D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0191EFD4-9BB9-4E5F-B37C-34240B7DF1D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0191EFD4-9BB9-4E5F-B37C-34240B7DF1D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0191EFD4-9BB9-4E5F-B37C-34240B7DF1D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{400E1A71-9472-4FD5-A71E-082694E48FE9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400E1A71-9472-4FD5-A71E-082694E48FE9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400E1A71-9472-4FD5-A71E-082694E48FE9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{400E1A71-9472-4FD5-A71E-082694E48FE9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5224A78A-C574-4008-BD34-E4E33932E2B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5224A78A-C574-4008-BD34-E4E33932E2B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5224A78A-C574-4008-BD34-E4E33932E2B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5224A78A-C574-4008-BD34-E4E33932E2B6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
